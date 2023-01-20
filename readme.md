@@ -51,9 +51,9 @@ Un ejemplo de la url del servicio es la siguiente:
 
 http://localhost:3001/prices/priority?applicationDate=2020-06-14 00:12:15&productId=35455&cadenaId=1
 
-Dónde applicationDate es la fecha de aplicación y debe tener el formato yyyy-MM-ddd HH:mm:ss tal y como se muestra en el ejemplo
-Dónde productId debe ser un número entero
-Dónde cadenaId debe ser un número entero
+* Dónde applicationDate es la fecha de aplicación y debe tener el formato yyyy-MM-ddd HH:mm:ss tal y como se muestra en el ejemplo
+* Dónde productId debe ser un número entero
+* Dónde cadenaId debe ser un número entero
 
 ### Pruebas (test)
 
