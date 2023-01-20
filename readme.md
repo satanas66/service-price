@@ -57,7 +57,7 @@ http://localhost:3001/prices/priority?applicationDate=2020-06-14 00:12:15&produc
 
 ### Pruebas (test)
 
-Se han realizado un total de 6 test entre unitarios y de integración y todos ellos son los solicitados en el documento de requisitos.
+Se han realizado un total de 7 test entre unitarios y de integración y todos ellos son los solicitados en el documento de requisitos.
 
 ### Notas
 
