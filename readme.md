@@ -16,7 +16,7 @@ Las tecnologías más relevantes para el desarrollo del proyecto service-price s
 * JUnit 5.7.0
 * POSTMAN: Para probar los servicios publicados.
 
-## Analysis, development an tests
+## Análisis desarrollo y pruebas
 
 ### Casos de uso
 
@@ -41,7 +41,7 @@ En el paquete servicio se encuentran la clase encargada de servir el dato aplica
 En el paquete controlador se encuentra la implementación del controlador encargado de exponer el endpoint.
 
 
-### Services
+### Servicios
 
 Previa cosumisión de los servicios se debe arrancar el proyecto cuyo núcleo es la clase "ServiceProductApplication"
 
@@ -55,11 +55,11 @@ Dónde applicationDate es la fecha de aplicación y debe tener el formato yyyy-M
 Dónde productId debe ser un número entero
 Dónde cadenaId debe ser un número entero
 
-### Test
+### Pruebas (test)
 
 Se han realizado un total de 6 test entre unitarios y de integración y todos ellos son los solicitados en el documento de requisitos.
 
-### Notes
+### Notas
 
 Al tratarse de una prueba de habilidades de análisis, diseño, estructura y desarrollo/pruebas donde el único input es un documento de requisitos, este proyecto tiene muchas carencias como por ejemplo:
 
