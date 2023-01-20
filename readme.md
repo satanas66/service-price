@@ -2,7 +2,7 @@
 
 ### Servicio de precios
 
-El siguiente proyecto ha sido realizado siguiendo los requerimientos del documento Java developer Prueba Técnica Java - PLATAFORMA CORE.pdf que se encuentra localizado en el directorio de recursos.
+El siguiente proyecto ha sido realizado siguiendo los requerimientos del documento Java developer Prueba Técnica Java - PLATAFORMA CORE.txt que se encuentra localizado en el directorio de recursos.
 
 Las tecnologías más relevantes para el desarrollo del proyecto service-price son:
 
